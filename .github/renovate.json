@@ -19,7 +19,8 @@
   "schedule": [
     "after 10pm every weekday",
     "every weekend",
-    "before 5am every weekday"
+    "before 5am every weekday",
+    "every hour"
   ],
   "updateNotScheduled": false,
   "timezone": "America/Los_Angeles",

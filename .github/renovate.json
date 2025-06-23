@@ -11,7 +11,7 @@
   "branchConcurrentLimit": 50,
   "separateMinorPatch": true,
   "recreateWhen": "never",
-  "includeForks": true
+  "includeForks": true,
   "labels": [
     "renovate"
   ],

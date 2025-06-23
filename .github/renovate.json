@@ -20,7 +20,7 @@
     "after 10pm every weekday",
     "every weekend",
     "before 5am every weekday",
-    "every hour"
+    "after 4pm"
   ],
   "updateNotScheduled": false,
   "timezone": "America/Los_Angeles",

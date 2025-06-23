@@ -45,7 +45,6 @@
       "groupName": "ama-metrics",
       "automerge": false,
       "enabled": true,
-      "ignoreUnstable": false,
       "assignees": [
         "gracewehner",
         "vishiy",

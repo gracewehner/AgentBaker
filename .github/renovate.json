@@ -37,6 +37,10 @@
       "matchDatasources": [
         "docker"
       ],
+      "matchUpdateTypes": [
+        "patch",
+        "minor"
+      ],
       "versioning": "regex:^(?<major>\\d+)\\.(?<minor>\\d+)\\.(?<patch>\\d+)?-(\\w+)-(\\d+)-(\\d+)-(\\d+)-(\\w+-*)(?<compatibility>.*)$",
       "groupName": "ama-metrics",
       "automerge": false,

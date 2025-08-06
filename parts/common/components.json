@@ -543,7 +543,7 @@
         },
         {
           "renovateTag": "registry=https://mcr.microsoft.com, name=oss/kubernetes-csi/azuredisk-csi",
-          "latestVersion": "v1.33.1"
+          "latestVersion": "v1.33.3"
         }
       ],
       "windowsVersions": [
@@ -561,7 +561,7 @@
         },
         {
           "renovateTag": "registry=https://mcr.microsoft.com, name=oss/kubernetes-csi/azuredisk-csi",
-          "latestVersion": "v1.33.1-windows-hp"
+          "latestVersion": "v1.33.3-windows-hp"
         }
       ]
     },
